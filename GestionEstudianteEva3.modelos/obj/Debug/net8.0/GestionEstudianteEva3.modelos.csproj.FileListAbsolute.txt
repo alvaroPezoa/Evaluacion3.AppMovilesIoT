@@ -1,0 +1,23 @@
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.deps.json
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.dll
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.pdb
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.AssemblyInfoInputs.cache
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.AssemblyInfo.cs
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.csproj.CoreCompileInputs.cache
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.sourcelink.json
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.dll
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\refint\GestionEstudianteEva3.modelos.dll
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.pdb
+C:\Users\manuel soto\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\ref\GestionEstudianteEva3.modelos.dll
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.deps.json
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.dll
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\bin\Debug\net8.0\GestionEstudianteEva3.modelos.pdb
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.AssemblyInfoInputs.cache
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.AssemblyInfo.cs
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.csproj.CoreCompileInputs.cache
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.dll
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\refint\GestionEstudianteEva3.modelos.dll
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\GestionEstudianteEva3.modelos.pdb
+C:\Users\pezzo\source\repos\GestionEstudiante\GestionEstudianteEva3.modelos\obj\Debug\net8.0\ref\GestionEstudianteEva3.modelos.dll

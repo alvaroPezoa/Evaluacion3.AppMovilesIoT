@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.modelos\\modelos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|solutionrelative:gestionestudianteeva3.modelos\\modelos\\curso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.modelos\\modelos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|solutionrelative:gestionestudianteeva3.modelos\\modelos\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.modelos\\gestionestudianteeva3.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A8B5674E-F56B-4036-AC37-FDEB57B1A9AA}|GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj|solutionrelative:gestionestudianteeva3.modelos\\gestionestudianteeva3.modelos.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\gestionestudianteeva3.appmovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\gestionestudianteeva3.appmovil.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\vista\\listaralumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\vista\\listaralumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\vista\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\vista\\crearalumno.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\vista\\listaralumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\vista\\listaralumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|c:\\users\\pezzo\\source\\repos\\gestionestudiante\\gestionestudianteeva3.appmovil\\vista\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CC90FAB6-6FE4-44B8-85BD-DBD341845A6F}|GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj|solutionrelative:gestionestudianteeva3.appmovil\\vista\\crearalumno.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GestionEstudianteEva3.AppMovil",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\GestionEstudianteEva3.AppMovil.csproj",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAewAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T19:17:44.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Properties\\launchSettings.json",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-11T19:17:38.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\AppShell.xaml",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\AppShell.xaml",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\AppShell.xaml",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:10:39.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\App.xaml",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\App.xaml",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\App.xaml",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:10:44.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GestionEstudianteEva3.modelos.csproj",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj",
+              "RelativeToolTip": "GestionEstudianteEva3.modelos\\GestionEstudianteEva3.modelos.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-11T17:43:34.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\Modelos\\Alumno.cs",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.modelos\\Modelos\\Alumno.cs",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\Modelos\\Alumno.cs",
+              "RelativeToolTip": "GestionEstudianteEva3.modelos\\Modelos\\Alumno.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAwwAgAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:47:34.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Curso.cs",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\Modelos\\Curso.cs",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.modelos\\Modelos\\Curso.cs",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.modelos\\Modelos\\Curso.cs",
+              "RelativeToolTip": "GestionEstudianteEva3.modelos\\Modelos\\Curso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T07:12:37.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\MainPage.xaml",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\MainPage.xaml",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T18:10:35.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ListarAlumno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml.cs",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml.cs",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml.cs",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T05:15:28.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\MauiProgram.cs",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T03:39:15.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CrearAlumno.xaml",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T04:34:35.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListarAlumno.xaml",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\Vista\\ListarAlumno.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-11T05:15:36.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CrearAlumno.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml.cs",
+              "RelativeDocumentMoniker": "GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml.cs",
+              "ToolTip": "C:\\Users\\pezzo\\source\\repos\\GestionEstudiante\\GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml.cs",
+              "RelativeToolTip": "GestionEstudianteEva3.AppMovil\\Vista\\CrearAlumno.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-11T04:46:10.791Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
